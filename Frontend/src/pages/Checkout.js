@@ -143,7 +143,7 @@ const Checkout = () => {
     const { amount, id: order_id, currency } = result.data.order;
 
     const options = {
-      key: "rzp_test_HSSeDI22muUrLR", // Enter the Key ID generated from the Dashboard
+      key: "rzp_test_HSSeDI22muUrLR", 
       amount: amount,
       currency: currency,
       name: "Cart's corner",
@@ -157,11 +157,11 @@ const Checkout = () => {
           razorpayOrderId: response.razorpay_order_id,
         };
 
-        const result = await axios.post(
-          "http://localhost:5000/api/user/order/paymentVerification",
-          data,
-          config
-        );
+        // const result = await axios.post(
+        //   "http://localhost:5000/api/user/order/paymentVerification",
+        //   data,
+        //   config
+        // );
 
         dispatch(
           createAnOrder({

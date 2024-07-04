@@ -75,7 +75,7 @@ const Home = () => {
                   <h4>Best Sake</h4>
                   <h5>MacBook Pro.</h5>
                   <p>
-                    From TND 1,29,900.00 <br />
+                    From TND 4,900.00 <br />
                   </p>
                 </div>
               </div>
@@ -89,7 +89,7 @@ const Home = () => {
                   <h4>NEW ARRIVAL</h4>
                   <h5>But IPad Air</h5>
                   <p>
-                    From TND 21,625.00 <br />
+                    From TND 800 <br />
                   </p>
                 </div>
               </div>
@@ -103,7 +103,7 @@ const Home = () => {
                   <h4>NEW ARRIVAL</h4>
                   <h5>But IPad Air</h5>
                   <p>
-                    From TND 41,900.00 <br />
+                    From TND 3000 <br />
                   </p>
                 </div>
               </div>
@@ -117,7 +117,7 @@ const Home = () => {
                   <h4>NEW ARRIVAL</h4>
                   <h5>But Headphone</h5>
                   <p>
-                    From TND 41,000.00 <br />
+                    From TND 600 <br />
                   </p>
                 </div>
               </div>
